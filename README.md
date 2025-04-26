@@ -27,4 +27,14 @@ This project is an AI-powered automatic attendance system that uses real-time fa
 ---
 
 ## 📁 Project Structure
+AI-pro/
+├── photos/                     # ✅ Keep this (contains known faces)
+│   └── *.jpg / *.png           # Known person face images
+├── file.py                     # ✅ Your main script
+├── attendance.csv              # ✅ Optional, if it’s a sample output
+├── 2025-04-24.csv              # ✅ Optional, sample log (rename for clarity)
+├── requirements.txt            # ✅ Add this (see below)
+├── README.md                   # ✅ Add this (explains your project)
+├── .gitignore                  # ✅ Add this (see below)
+
 
